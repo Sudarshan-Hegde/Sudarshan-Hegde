@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to the Neural Network of Sudarshan Hegde 🧠
+# Welcome to the Neural Network of Sudarshan Hegde
 
 <img src="target.gif" alt="Targeting Excellence" width="400"/>
 
@@ -200,17 +200,4 @@ I'm always eager to collaborate on projects that:
 ⭐ *If you find my repositories interesting, consider starring them!*  
 🤖 *Together, let's build the future, one algorithm at a time.*
 
-</div><!--
-**Sudarshan-Hegde/Sudarshan-Hegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
